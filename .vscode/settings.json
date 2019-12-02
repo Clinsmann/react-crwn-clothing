@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 13,
+    "editor.fontWeight": "500",
+    "debug.console.fontSize": 13,
+    "markdown.preview.fontSize": 13,
+    "editor.fontLigatures": true,
+    "editor.tabSize": 2
+}
